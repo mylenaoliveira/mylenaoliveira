@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [bit.ly/mylena-oliveira-designer](bit.ly/mylena-oliveira-designer)
-
 - 💬 Ask me about **UX Design**
 
-- 📫 How to reach me **mylenamos@live.com**
+- 👨‍💻 All of my projects are available at [bit.ly/mylena-oliveira-designer](bit.ly/mylena-oliveira-designer)
 
 - 📄 Know about my experiences [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
+
+- 📫 How to reach me **send a message to mylenamos@live.com**
 
 - ⚡ Fun fact **I was a scout**
 
