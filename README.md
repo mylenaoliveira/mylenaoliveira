@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mylena</h1>
+<h1 align="center">Hi, I'm Mylena Oliveira</h1>
 <h3 align="center">A Product Designer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylenaoliveira&label=Profile%20views&color=020202&style=flat" alt="mylenaoliveira" /> </p>
