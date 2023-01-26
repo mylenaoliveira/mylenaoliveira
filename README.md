@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [bit.ly/mylena-oliveira-designer](bit.ly/mylena-oliveira-designer)
 
-- 📄 Know about my experiences [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
+- 📄 Know about my experiences: [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
 
-- 📫 How to reach me **send a message to mylenamos@live.com**
+- 📫 How to reach me: **send a message to mylenamos@live.com**
 
-- ⚡ Fun fact **I was a scout**
+- ⚡ Fun fact: **I was a scout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
