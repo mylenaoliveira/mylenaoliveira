@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **UX Design**
 
-- 👨‍💻 All of my projects are available at [bit.ly/mylena-oliveira-designer](bit.ly/mylena-oliveira-designer)
+- 👨‍💻 All of my projects are available at [mylena-oliveira.webflow.io](https://mylena-oliveira.webflow.io)
 
 - 📄 Know about my experiences: [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
 
