@@ -7,13 +7,11 @@
 
 - 💬 Ask me about **UX Design**
 
-- 👨‍💻 All of my projects are available at [mylena-oliveira.webflow.io](https://mylena-oliveira.webflow.io)
+- 👨‍💻 All of my projects are available at [dribbble.com/mylena-oliveira](https://dribbble.com/mylena-oliveira)
 
 - 📄 Know about my experiences: [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
 
 - 📫 How to reach me: **send a message to mylenamos@live.com**
-
-- ⚡ Fun fact: **I was a scout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
