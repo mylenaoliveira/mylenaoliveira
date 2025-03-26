@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mylena Oliveira</h1>
-<h3 align="center">A Product Designer from Brazil</h3>
+<h3 align="center">A Designer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylenaoliveira&label=Profile%20views&color=020202&style=flat" alt="mylenaoliveira" /> </p>
 
 - 🌱 I’m currently learning **Service Design**
-
-- 💬 Ask me about **UX Design**
 
 - 👨‍💻 All of my projects are available at [dribbble.com/mylena-oliveira](https://dribbble.com/mylena-oliveira)
 
