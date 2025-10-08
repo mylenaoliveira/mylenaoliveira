@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mylenaoliveira&label=Profile%20views&color=020202&style=flat" alt="mylenaoliveira" /> </p>
 
-- 🌱 I’m currently learning **Service Design**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [dribbble.com/mylena-oliveira](https://dribbble.com/mylena-oliveira)
+- 👨‍💻 All of my projects are available at [bento.me/mylena-oliveira](https://bento.me/mylena-oliveira)
 
 - 📄 Know about my experiences: [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
 
