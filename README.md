@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [bento.me/mylena-oliveira](https://bento.me/mylena-oliveira)
-
 - 📄 Know about my experiences: [linkedin.com/in/mylena-oliveira](linkedin.com/in/mylena-oliveira)
 
 - 📫 How to reach me: **send a message to mylenamos@live.com**
